@@ -1,2 +1,2 @@
 console.log('JS loaded')
-console.log('Hello!')
+console.log("Hello! I'm learning Git.")
